@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "7537832141",
+    "project_id": "magazinedeneme",
+    "storage_bucket": "magazinedeneme.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7537832141:android:a2a279528add2d90f83984",
+        "android_client_info": {
+          "package_name": "com.example.splashli_uygulama"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7537832141-n1slqgdjqiqrla2vnrgktqhtu1v3avva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVicgf-KcD9M9reNN3vqijK21x-K8nROI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7537832141-n1slqgdjqiqrla2vnrgktqhtu1v3avva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
